@@ -169,7 +169,7 @@ class PaymentPage extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => RecieptPage()),
                   ),
               child: Container(
-                width: 420,
+                width: 400,
                 height: 60,
                 margin: EdgeInsets.symmetric(horizontal: 5, vertical: 20),
                 decoration: BoxDecoration(

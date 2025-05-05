@@ -1,16 +1,25 @@
-# appvisual_ui
+# 💸 Expenio - Personal Finance UI (Flutter)
 
-A new Flutter project.
+This Flutter project is a pixel-perfect implementation of the [Expenio - Personal Finance UI Kit](https://www.figma.com/community/file/885503108183774962/expenio-personal-finance-ui-kit) available on Figma Community.
 
-## Getting Started
+The app focuses solely on UI design — including dashboards, balance cards, expense graphs, transaction history, and receipt screens — and is built fully using Flutter with beautiful gradients, custom components, and responsive layouts.
 
-This project is a starting point for a Flutter application.
+> ⚠️ This project does **not include backend logic or state management**. It is intended for UI exploration and front-end inspiration only.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screens Included
+- Splash & Welcome Screen  
+- Wallet & Card Overview  
+- Expense Graph Section  
+- Transactions List  
+- Add New Card UI  
+- Receipt / Barcode Page  
+- Settings & Profile Placeholder
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔗 Figma Design
+[Figma UI Source](https://www.figma.com/community/file/885503108183774962/expenio-personal-finance-ui-kit)
+
+---
